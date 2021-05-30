@@ -24,4 +24,4 @@ dumpy(url, options)
 
 If you just want to generate images quickly, and easily you can join the server below to use the `.dumpy` command with the bot
 
-![Invite](http://inv.wtf/widget/qs)
+[![Invite](http://inv.wtf/widget/qs)](https://inv.wtf/qs)
